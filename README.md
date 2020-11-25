@@ -1,2 +1,3 @@
 # socket
-heee
+server: WindowsFormApp1
+client: WindowsFormApp2
